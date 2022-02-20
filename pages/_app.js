@@ -6,11 +6,20 @@ const theme = {
   },
 }
 const GlobalStyle = createGlobalStyle`
+html {
+
+          height: 100%;
+		  }
   body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+	height: 100%;
   }
+  #__next {
+
+          height: 100%;
+		   }
   ul {
   list-style-type: none;
   }
