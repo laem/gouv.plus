@@ -8,22 +8,17 @@ export default function MoreStories({ posts }) {
           display: flex;
           flex-wrap: wrap;
           li {
-            width: 10rem;
-            height: 10rem;
+            width: 12rem;
+            height: 20rem;
+            border: 3px solid ${(props) => props.theme.colors.primary};
+            border-radius: 0.2rem;
+            margin: 0.6rem;
           }
         `}
       >
         {posts.map((post) => (
-          <li>
-            <PostPreview
-              key={post.slug}
-              title={post.title}
-              coverImage={post.coverImage}
-              date={post.date}
-              author={post.author}
-              slug={post.slug}
-              excerpt={post.excerpt}
-            />
+          <li key={post.titre}>
+            <PostPreview {...post} />
           </li>
         ))}
       </ul>

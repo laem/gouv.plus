@@ -1,6 +1,13 @@
 import { parseISO, format } from 'date-fns'
 
+export const dateCool = (date) =>
+  new Date(date).toLocaleString(undefined, {
+    weekday: 'long',
+    year: 'numeric',
+    month: 'long',
+    day: 'numeric',
+  })
+
 export default function DateFormatter({ dateString }) {
-  const date = parseISO(dateString)
-  return <time dateTime={dateString}>{format(date, 'LLLL	d, yyyy')}</time>
+  return <time dateTime={new Date(dateString)}>{dateCool(dateString)}</time>
 }

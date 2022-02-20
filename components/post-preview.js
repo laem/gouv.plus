@@ -2,36 +2,46 @@ import Avatar from '../components/avatar'
 import DateFormatter from '../components/date-formatter'
 import CoverImage from './cover-image'
 import Link from 'next/link'
+export const dateCool = (date) =>
+  new Date(date).toLocaleString(undefined, {
+    weekday: 'long',
+    year: 'numeric',
+    month: 'long',
+    day: 'numeric',
+  })
 
-export default function PostPreview({
-  title,
-  coverImage,
-  date,
-  excerpt,
-  author,
-  slug,
-}) {
+export default function PostPreview({ titre, image, date, extrait, slug }) {
   return (
-    <div>
-      <div className="mb-5">
-        <CoverImage
-          slug={slug}
-          title={title}
-          src={coverImage}
-          height={278}
-          width={556}
-        />
+    <div
+      css={`
+        h2 {
+          font-size: 110%;
+          margin-top: 0.1rem;
+        }
+        > .content {
+          padding: 0.6rem;
+        }
+      `}
+    >
+      <CoverImage
+        slug={slug}
+        title={titre}
+        src={image}
+        height={278}
+        width={556}
+      />
+      <div className="content">
+        <h2>
+          <Link as={`/posts/${slug}`} href="/posts/[slug]">
+            <a>{titre}</a>
+          </Link>
+        </h2>
+        <div className="text-lg mb-4">
+          <DateFormatter dateString={date} />
+        </div>
+        <p className="text-lg leading-relaxed mb-4">{extrait}</p>
+        {/*     <Avatar name={author.name} picture={author.picture} />*/}
       </div>
-      <h3 className="text-3xl mb-3 leading-snug">
-        <Link as={`/posts/${slug}`} href="/posts/[slug]">
-          <a className="hover:underline">{title}</a>
-        </Link>
-      </h3>
-      <div className="text-lg mb-4">
-        <DateFormatter dateString={date} />
-      </div>
-      <p className="text-lg leading-relaxed mb-4">{excerpt}</p>
-      {/*     <Avatar name={author.name} picture={author.picture} />*/}
     </div>
   )
 }
