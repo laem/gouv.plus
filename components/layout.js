@@ -11,6 +11,8 @@ export default function Layout({ preview, children }) {
           display: grid;
           grid-template-rows: auto 1fr auto;
           height: 100%;
+          margin: 0.6rem;
+          text-align: center;
         `}
       >
         <header
@@ -19,6 +21,9 @@ export default function Layout({ preview, children }) {
             align-items: center;
             justify-content: space-evenly;
             flex-wrap: wrap;
+            h1 {
+              margin: 0;
+            }
           `}
         >
           <Link href="/">

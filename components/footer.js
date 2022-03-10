@@ -11,6 +11,7 @@ export default function Footer() {
         > div {
           max-width: 30rem;
         }
+        margin-bottom: 1.6rem;
       `}
     >
       <div>
