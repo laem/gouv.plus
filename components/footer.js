@@ -20,7 +20,8 @@ export default function Footer() {
     >
       <div>
         <p>
-          Viens proposer ta fiche "service public numérique" en 3 clics sur{' '}
+          Viens proposer ou améliorer une fiche "service public numérique" en 3
+          clics sur{' '}
           <a href="https://github.com/laem/gouv.plus">
             la plateforme contributive Github
           </a>
