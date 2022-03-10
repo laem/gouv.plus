@@ -21,15 +21,15 @@ export default function PostPreview({ titre, image, date, extrait, slug }) {
         > .content {
           padding: 0.6rem;
         }
+        position: relative;
+        img {
+          object-fit: cover;
+          width: 100%;
+          max-height: 6rem;
+        }
       `}
     >
-      <CoverImage
-        slug={slug}
-        title={titre}
-        src={image}
-        height={278}
-        width={556}
-      />
+      <img src={image} />
       <div className="content">
         <h2>
           <Link as={`/posts/${slug}`} href="/posts/[slug]">
