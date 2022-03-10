@@ -15,11 +15,14 @@ export default function Footer() {
       `}
     >
       <div>
-        Viens proposer ta fiche "service public numérique" en 3 clics sur{' '}
-        <a href="https://github.com/laem/gouv.plus">
-          la plateforme contributive Github
-        </a>
-        .
+        <p>
+          Viens proposer ta fiche "service public numérique" en 3 clics sur{' '}
+          <a href="https://github.com/laem/gouv.plus">
+            la plateforme contributive Github
+          </a>
+          .
+        </p>
+        <p>💡 Ce site n'est pas affilié au gouvernement français.</p>
       </div>
     </footer>
   )
