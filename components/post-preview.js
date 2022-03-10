@@ -19,13 +19,17 @@ export default function PostPreview({ titre, image, date, extrait, slug }) {
           margin-top: 0.1rem;
         }
         > .content {
-          padding: 0.6rem;
+          padding: 0.2rem 0.6rem;
+          h2 {
+            margin: 0.2rem 0;
+          }
         }
+
         position: relative;
         img {
           object-fit: cover;
           width: 100%;
-          max-height: 6rem;
+          max-height: 8rem;
         }
       `}
     >
@@ -36,10 +40,10 @@ export default function PostPreview({ titre, image, date, extrait, slug }) {
             <a>{titre}</a>
           </Link>
         </h2>
-        <div className="text-lg mb-4">
+        <small>
           <DateFormatter dateString={date} />
-        </div>
-        <p className="text-lg leading-relaxed mb-4">{extrait}</p>
+        </small>
+        <p>{extrait}</p>
         {/*     <Avatar name={author.name} picture={author.picture} />*/}
       </div>
     </div>
