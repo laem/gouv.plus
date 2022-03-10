@@ -7,6 +7,7 @@ export default function MoreStories({ posts }) {
         css={`
           display: flex;
           flex-wrap: wrap;
+          padding-left: 0.6rem;
           li {
             width: 12rem;
             height: 20rem;

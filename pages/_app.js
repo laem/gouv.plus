@@ -1,6 +1,6 @@
 import { createGlobalStyle, ThemeProvider } from 'styled-components'
 
-const theme = {
+export const theme = {
   colors: {
     primary: '#19088e',
   },

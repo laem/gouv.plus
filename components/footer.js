@@ -1,5 +1,6 @@
 import Container from './container'
 import { EXAMPLE_PATH } from '../lib/constants'
+import { theme } from '../pages/_app'
 
 export default function Footer() {
   return (
@@ -12,6 +13,9 @@ export default function Footer() {
           max-width: 30rem;
         }
         margin-bottom: 1.6rem;
+        > div {
+          border: 1px dashed ${theme.colors.primary};
+        }
       `}
     >
       <div>
