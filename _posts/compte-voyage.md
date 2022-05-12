@@ -1,5 +1,5 @@
 ---
-titre: Compte train 
+titre: Pass rail
 extrait: |
   Offrir à tout français une somme d'argent à dépenser en train chaque année
 image: https://images.unsplash.com/photo-1526958097901-5e6d742d3371?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80
@@ -8,19 +8,28 @@ date: '2022-03-01'
 
 ## Le drame
 
-Le train est l'incarnation du transport écologique. Si vous êtes français, vous avez donc déjà entendu la complainte "Oui mais le train, c'est trop cher". 
+Le train est l'incarnation du transport écologique. Mais si vous êtes français, vous avez sûrement déjà entendu la complainte "Oui mais le train, c'est trop cher". 
 
 Oui, ce dernier souffre de la comparaison à la voiture et à l'avion, des transports largement subventionnés par la collectivité et dont les externalités négatives sont peu taxées (surtout pour l'avion).
 
-Concrètement, alors que le carburant frôle les 2€ au litre, le train (TER, Intercités, TGV) est souvent moins cher que la voiture sur un trajet direct, par exemple Paris-Rennes. 
+Concrètement, et contrairement aux tenaces attaches au luxe du confort de la bagnole individuelle, alors que le carburant frôle les 2€ au litre, le train (TER, Intercités, TGV) est souvent moins cher que la voiture sur un trajet direct, par exemple Paris-Rennes. 
 
 Mais c'est sur les trajets indirects, qui géographiquement perdent à devoir passer par le centre de l'étoile ferroviaire française, Paris, que ça se complique. C'est le cas de Bordeaux-Lyon, deux des plus grandes villes du pays. 
 
 ## La solution numérique et le déploiement
 
-Pour inciter les français à prendre le train, nous proposons de mettre en place un compte prépayé. En me connectant sur SNCF Connect, je constaterait que chaque année l'État m'offre en tant qu'individu 200€ à dépenser en billets de train. 
+Pour inciter les français à prendre le train, nous proposons de mettre en place un compte prépayé. En me connectant sur SNCF Connect, je constaterai que chaque année l'État m'offre en tant qu'individu 200€ à dépenser en billets de train. 
 
-Ce dispositif s'apparente au pass culture, sauf qu'il ne nécessite presque *aucun développement*. Le seul bémol étant l'apparition de la concurrence ferroviaire (certains trains ne sont pas disponibles sur SNCF Connect) et l'absence d'application qui permette de tout réserver. 
+Ce dispositif s'apparente au pass culture, sauf qu'il ne nécessite presque *aucun développement*. 
 
+Le seul bémol étant l'apparition de la concurrence ferroviaire (certains trains ne sont pas disponibles sur SNCF Connect) et l'absence probable d'application qui permettra de réserver tous les trains du pays. 
 
-Questions : quid des autres transports verts ? Quid des gens pas sur du rail ? Pourquoi ce montant de 200€ ? Etc. 
+Notons qu'un tel dispositif existe déjà, mais sa mise en place le rend complètement sous-utilisé. Volontairement, pourrait-on croire.
+
+## Interrogations 
+
+Contrairement aux idées reçues, l'écrasante majorité de la population réside à une distance raisonnable (comprendre : faisable en vélo) d'une gare.
+
+Les communes trop éloignées d'une gare pourront cependant recevoir cette somme sous forme de subvention destinée justement à y amener le rail. Les habitants conserveront leur droit.
+
+Le montant de 200€ par personne et par an est ici donné à titre d'exemple d'ordre de grandeur.
