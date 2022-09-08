@@ -16,4 +16,4 @@ Difficile de comprendre les raisons de ce système complexe, qui pourrait vraise
 
 Une implémentation possible serait de fournir à tout citoyen un compte bancaire public, qui servirait de dépôt de cet argent, avec un moyen de paiement bancaire minimal (carte bancaire, services de virement), laissant le choix au citoyen de l'utiliser directement ou de mettre en place des virements récurents sur son compte privé préféré.
 
-Si cette vision des choses est naïves, et que vous connaissez des points de blocage fondamentaux, à vous de jouer pour améliorer cette fiche ;)
+Si cette vision des choses est naïve, et que vous connaissez des points de blocage fondamentaux, à vous de jouer pour améliorer cette fiche ;)
