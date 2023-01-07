@@ -37,3 +37,7 @@ Bien sûr que beaucoup de citoyens ne feront pas cet exercice, en premier lieu c
 Au fur et à mesure du questionnaire, ton profil logement se construit. Il devient de plus en plus précis. On te fait bien comprendre que tu possèdes ces données, elles sont là en intégralité sur ton /profil, qui pourra être utile pour un tas d'usages. Tu pourras le montrer au chauffagiste, au conseiller FranceRenov en cliquant sur le bouton "générer un lien".
 
 Aucun humain n'est en mesure d'avoir en tête les 10 000 lignes de calcul et de conseils exposées sur [l'assistant officiel des entrepreneurs](https://mon-entreprise.urssaf.fr) ou [le code du travail numérique](https://code.travail.gouv.fr). Ces outils sont des assistants aussi bien du citoyen que du professionnel de la paie et du droit du travail, qui les accueillent à bras ouvert (sauf quand ils en sont concurrents, avec comme business modèle une rétention de l'information clef). Le monde de la rénovation énergétique du logement cherche encore les siens.
+
+## Aller plus loin
+
+Cette fiche peut être vu comme une suite à [celle-ci](https://hackmd.io/@laem/conseils-énergétiques).
