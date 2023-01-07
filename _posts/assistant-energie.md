@@ -20,7 +20,7 @@ Sur l'écran d'accueil, pas de fioritures, juste une première question simple, 
 
 Puis une autre question : dans quel lieu tu vis ? Question par question, on avance.
 
-Toutes les 3 ou 4 réponses, des carottes : des cadeaux ou bulles ou autre icônes apparaissent ou disparaissent, "popent". Il faut un élément graphique fort, comme Mario a son champignon ! C'est le deuxième et le seul élément de l'interface, au-dessus du bloc de questions. L'interface ressemble à un jeu, tu as des choses à gagner.
+Toutes les 3 ou 4 réponses, des carottes : des cadeaux ou bulles ou autre icônes apparaissent ou disparaissent, "popent". Il faut un élément graphique fort, comme Mario a son champignon ! C'est le deuxième et le seul autre élément de l'interface, au-dessus du bloc de questions. L'interface ressemble à un jeu, tu as des choses à gagner.
 
 Propriétaire ? Un tas d'aides de l'État vont apparaitre progressivement. Elles ne seront pas d'emblée débloquées. Pour gagner l'aide "Pompe à chaleur", il faut répondre à des dizaines de questions, dont beaucoup t'excluent rapidement. Ne croyez pas que demander la réponse à 30 questions, chacune simple et illustrée (avec toujours un échappatoire), c'est rébarbatif. Qui voudrait investir 15 000 € comme ça, sans s'être au mieux assuré que l'investissement est rentable ?
 
