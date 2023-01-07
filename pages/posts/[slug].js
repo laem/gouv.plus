@@ -25,6 +25,8 @@ export default function Post({ post, morePosts, preview }) {
               <Head>
                 <title>{post.titre}</title>
                 <meta name="description" content={post.extrait} />
+                <meta property="twitter:card" content="summary_large_image" />
+                <meta property="og:title" content={post.titre} />
                 <meta property="og:image" content={post.image} />
               </Head>
               <PostHeader
