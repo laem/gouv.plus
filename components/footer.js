@@ -12,7 +12,7 @@ export default function Footer() {
         > div {
           max-width: 30rem;
         }
-        margin-bottom: 1.6rem;
+        padding-bottom: 1.6rem;
         > div {
           border: 1px dashed ${theme.colors.primary};
         }

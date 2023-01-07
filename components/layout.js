@@ -31,7 +31,7 @@ export default function Layout({ preview, children }) {
               <h1>Gouv.plus</h1>
             </a>
           </Link>
-          <p>Les services publics numériques dont vous rêvez.</p>
+          <p>Les services publics numériques citoyens dont vous rêvez.</p>
         </header>
         <main>{children}</main>
         <Footer />
