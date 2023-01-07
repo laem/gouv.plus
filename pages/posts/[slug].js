@@ -23,7 +23,8 @@ export default function Post({ post, morePosts, preview }) {
           <>
             <article>
               <Head>
-                <title>{post.title}</title>
+                <title>{post.titre}</title>
+                <meta name="description" content={post.extrait} />
                 <meta property="og:image" content={post.image} />
               </Head>
               <PostHeader
@@ -47,6 +48,7 @@ export async function getStaticProps({ params }) {
     'slug',
     'content',
     'image',
+    'extrait',
   ])
   const content = await markdownToHtml(post.content || '')
 
