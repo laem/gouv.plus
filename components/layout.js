@@ -30,7 +30,7 @@ export default function Layout({ preview, children }) {
           <Link href="/">
             <a>
               <img src="/logo.png" css="width: 6rem; height: auto" />
-              <h1>Gouv.plus</h1>
+              <h1>gouv.plus</h1>
             </a>
           </Link>
           <p>Les services publics numériques citoyens dont vous rêvez.</p>
