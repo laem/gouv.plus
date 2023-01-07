@@ -7,3 +7,7 @@ date: '2022-03-01'
 ---
 
 Une campagne officielle du gouvernement français pour faire face à la réalité de l'urgence climatique.
+
+Qui exposerait sans fard les risques directs et indirects auxquels nous faisons face.
+
+Qui exposerait également les nombreuses solutions qui existent déjà. Le vélo a besoin d'[infrastructures](/posts/classement-villes-cyclables), mais aussi d'un changement de mentalité, qui passe par une remise à la mode.
