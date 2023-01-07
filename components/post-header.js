@@ -10,6 +10,7 @@ export default function PostHeader({ titre, image, date }) {
         margin: 0 auto;
         display: block;
         text-align: center;
+        max-width: 90%;
       `}
     >
       <PostTitle>{titre}</PostTitle>
@@ -21,6 +22,7 @@ export default function PostHeader({ titre, image, date }) {
           margin: 0 auto;
           display: block;
           max-height: 30vh;
+          max-width: 90%;
         `}
       />
       <small>
