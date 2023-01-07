@@ -8,9 +8,9 @@ date: '2022-12-01'
 
 ## Introduction
 
-Le parc de logement français n'est absolument pas préparé au choc énergétique de 2022.
+Le parc de logements français n'est absolument pas préparé au choc énergétique de 2022.
 
-Pourtant des centaines de solutions existent, du changement d'habitude à l'investissement de 20 000€. On a besoin d'un grand assistant qui nous pose des questions et nous donne des réponses étayées.
+Pourtant des centaines de solutions existent, du changement d'habitude à l'investissement de 20 000 €. On a besoin d'un grand assistant qui nous pose des questions et nous donne des réponses étayées.
 
 Tu réponds à beaucoup (beaucoup) de questions sur ton logement. En échange, il t'explique comment réduire tes € - kWh - ⵛ.
 
@@ -40,4 +40,4 @@ Aucun humain n'est en mesure d'avoir en tête les 10 000 lignes de calcul et de 
 
 ## Aller plus loin
 
-Cette fiche peut être vu comme une suite à [celle-ci](https://hackmd.io/@laem/conseils-énergétiques).
+Cette fiche peut être vue comme une suite à [celle-ci](https://hackmd.io/@laem/conseils-énergétiques).
