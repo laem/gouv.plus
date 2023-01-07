@@ -1,14 +1,18 @@
 ---
 titre: L'assistant énergie
 extrait: |
-  Tu réponds à beaucoup de questions sur ton logement. En échange, il t'explique comment réduire tes € - kWh - ⵛ
+  Sa mission : vous aider à optimiser le trio € - kWh - ⵛ.
 image: https://images.unsplash.com/photo-1629819481704-ed9d9bfb036a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80
 date: '2022-12-01'
 ---
 
 ## Introduction
 
-Le parc de logement français n'est absolument pas préparé au choc énergétique de 2022. Pourtant des centaines de solutions existent, du changement d'habitude à l'investissement de 20 000€. On a besoin d'un grand assistant qui nous pose des questions et nous donne des réponses étayées.
+Le parc de logement français n'est absolument pas préparé au choc énergétique de 2022.
+
+Pourtant des centaines de solutions existent, du changement d'habitude à l'investissement de 20 000€. On a besoin d'un grand assistant qui nous pose des questions et nous donne des réponses étayées.
+
+Tu réponds à beaucoup (beaucoup) de questions sur ton logement. En échange, il t'explique comment réduire tes € - kWh - ⵛ.
 
 ## L'assistant énergie
 
@@ -26,7 +30,7 @@ Simple vitrage ? La bulle double vitrage apparait directement. Tu viens de gagne
 
 La bulle s'exprime en € + kWh + climat. Ce sont les trois variables du jeu. On peut le voir comme les deux aspects du DPE + la tune. Nous parlions d'un investissement "rentable" plus haut : mais rentable en quoi ? En 2023, vous l'aurez compris, parler qu'en € ne suffit plus. À l'inverse, les calculateurs qui omettent de parler d'€ ne font qu'une partie du chemin.
 
-Le but c'est de porter le citoyen au bout d'un questionnaire extrêmement long. Pour ça, il faut un truc super intéractif, qui te donne envie de répondre à la prochaine question. L'interface n'est pas celle d'un CERFA, on est sur un truc algorithmique à la Tinder / TikTok, question-réponse, question-réponse, tu peux y rester 1h.
+Le but c'est de porter le citoyen au bout d'un questionnaire extrêmement long. Pour ça, il faut un truc super intéractif, qui te donne envie de répondre à la prochaine question. L'interface n'est pas celle d'un CERFA, on est sur un truc algorithmique à la Tinder ou plus sérieusement Elyze (l'application d'aide au vote), question-réponse, question-réponse, tu peux y rester 1h.
 
 Bien sûr que beaucoup de citoyens ne feront pas cet exercice, en premier lieu ceux qui n'ont aucun problème énergétique. Pour d'autres, ce sera hors de portée, mais ne croyez pas que la situation actuelle est meilleure, au contraire : les outils officiels sont très complexes et non guidés; les professionnels sont peu équipés ou peu profesionnels.
 
