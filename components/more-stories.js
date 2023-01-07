@@ -6,6 +6,7 @@ export default function MoreStories({ posts }) {
       <ul
         css={`
           display: flex;
+          list-style-type: none;
           flex-wrap: wrap;
           align-items: center;
           justify-content: center;

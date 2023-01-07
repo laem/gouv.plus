@@ -30,8 +30,8 @@ Bien sûr, comme tout classement, celui-ci n’est que complémentaire de l’ex
 
 En parlant de mesure: une version 2 du classement est déjà prévue, suite aux écueils déjà soulignés par le public attentif.
 
-    le nombre de mairies adjacentes à connecter sera relevé (actuellement 4)
-    les voies vélos qui suivent un chemin piéton seront incluses si elles sont explicitement séparées des piétons, pas seulement par de la peinture
-    la mesure de la population de chaque ville sera intégrée pour que les longues voies touristiques rurales ne soient pas pondérées autant que les voies cyclables structurantes du cœur de la métropole
+- le nombre de mairies adjacentes à connecter sera relevé (actuellement 4)
+- les voies vélos qui suivent un chemin piéton seront incluses si elles sont explicitement séparées des piétons, pas seulement par de la peinture
+- la mesure de la population de chaque ville sera intégrée pour que les longues voies touristiques rurales ne soient pas pondérées autant que les voies cyclables structurantes du cœur de la métropole
 
 Le projet est open source, chacun peut le scruter et l’améliorer: https://github.com/laem/villes.plus/issues?q=is%3Aissue+is%3Aopen+label%3ACyclable
