@@ -18,4 +18,6 @@ Seulement, malgré l'étendue des données librement disponibles, en pratique ce
 
 Il ne s'agit pas de vouloir interdire Google Maps et Waze, ni même les remplacer, mais simplement fournir une alternative souveraine de bonne qualité.
 
-Pour relever ce défi, il s'agira d'investiguer d'abord la fonctionnalité la plus cruellement manquante aujourd'hui. Peut-être la recherche.
+Pour relever ce défi, il s'agira d'investiguer d'abord la fonctionnalité la plus cruellement manquante aujourd'hui. Il s'agit peut-être la recherche ? 
+
+Depuis la rédaction de cet article, l'app Web [Cartes](https://cartes.app) a été lancée. Elle répond à ce besoin et est en cours de développement actif. 
